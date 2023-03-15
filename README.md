@@ -22,7 +22,7 @@ Displays:
 
 
 ### Credits
-- Maxamed-Noor Xassan
+- Maxamed Xassan
 
 
 [GitHub Project Repo](https://github.com/Mcx2code/Student-Bio)
