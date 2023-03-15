@@ -31,4 +31,4 @@ Displays:
 
 ### Page Images
 
-
+<img width="1437" alt="Student Bio" src="https://raw.githubusercontent.com/Mcx2code/Student-Bio/main/studentbioimg.png">
